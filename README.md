@@ -1,9 +1,9 @@
 # LoRa-SAX
-LoRa-SAX
 Documento escrito por Franklin MRJ
 # Para compactar os pacotes LoRa do 'arquivoEntrada.txt' utilize o código em "compactar_LoRa-SAX.py"
 
 #intervalo = quantidade de linhas do arquivoEntrada
+
 #qtdSimbolos = 150 em todos os experimentos   
 
 intervalo=200
