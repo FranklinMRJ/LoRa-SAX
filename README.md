@@ -7,11 +7,11 @@ Documento escrito por Franklin MRJ
 #qtdSimbolos = 150 em todos os experimentos   
 
 intervalo=200 
-compactarIoTSAX('arquivoEntrada.txt', 150, 'arquivoComprimido.lorasax', intervalo)
+compactarLoRaSAX('arquivoEntrada.txt', 150, 'arquivoComprimido.lorasax', intervalo)
 
 
 
 # Para descompactar utilize o código em "descompactar_LoRa-SAX.py"
 #exemplo de descompactação com o gateway = 1876585532657073
 
-descompactarIoTSAX('arquivoComprimido.lorasax','arquivoDescomprimido.txt', '1876585532657073')
+descompactarLoRaSAX('arquivoComprimido.lorasax','arquivoDescomprimido.txt', '1876585532657073')
