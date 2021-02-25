@@ -6,7 +6,8 @@ Documento escrito por Franklin MRJ
 #intervalo = quantidade de linhas do arquivoEntrada
 #qtdSimbolos = 150 em todos os experimentos   
 
-intervalo=200 
+intervalo=200
+
 compactarLoRaSAX('arquivoEntrada.txt', 150, 'arquivoComprimido.lorasax', intervalo)
 
 
